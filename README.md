@@ -7,8 +7,7 @@ This repo provides you with the model to solve captchas of this specific type.
 
 ![Image Alt Text](Data/testset/2AK279.jpeg)
 
-And the tool to scrap on [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cjwTIkQuU0ZUtSY8QKtg69gHR5PLnKLm?usp=sharing)
-
+And the tool to scrap these images from the website is on [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cjwTIkQuU0ZUtSY8QKtg69gHR5PLnKLm?usp=sharing)
 
 
 ## Table of Contents
