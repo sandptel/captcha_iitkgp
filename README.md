@@ -31,4 +31,7 @@ Make sure you have a Google account and are signed in to access and run the note
 
 
 ```bash
-$ npm install
+$ pip install pillow
+$ pip install tensorflow
+$ pip install numpy
+
