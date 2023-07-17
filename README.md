@@ -3,7 +3,7 @@
 [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue.svg)](https://www.kaggle.com/datasets/sandeep1507/captchaimgdata)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-This repo provides you with the model to solve captchas of this specific type.
+This repository provides you with the model to solve captchas of this specific type which contains characters with random number of strikethroughs vertically and horizontally.
 
 ![Image Alt Text](Data/testset/2AK279.jpeg)
 
