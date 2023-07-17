@@ -1,4 +1,7 @@
 # Captcha_iitkgp
+Testit out readily on colab - https://colab.research.google.com/drive/1Fa_WgMyz9ZrWhPtcJ1DGR5GiQuix_1wM?usp=sharing
+
+
 This repository aims to provide a deployable model to solve the captchas given in the erp website.
 
 You can check out the trained model deployment <here>.
