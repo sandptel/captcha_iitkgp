@@ -17,11 +17,11 @@ And the tool to scrap these images from the website is on [![Colab](https://cola
 - [License](#license)
 
 ## Usage
-To use this project, follow these steps:
+To use this project for your own captcha images , follow these steps:
 
-1. Open the [Colab Notebook](https://colab.research.google.com/drive/1Fa_WgMyz9ZrWhPtcJ1DGR5GiQuix_1wM?usp=sharing) in Google Colab.
+1. Open the [Colab Notebook](https://colab.research.google.com/drive/1mafV7t0o0mPMyH1rObs60o3DNy8KDsUs?usp=sharing) in Google Colab.
 
-2. Click on the "Open in Colab" button at the top of the notebook to launch it in Google Colab.
+2. Add Your own folder path to captchasolve fucntion and get a list of strings with predicted texts.
 
 3. Follow the instructions provided in the notebook to run and interact with the project.
 
