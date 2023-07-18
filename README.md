@@ -13,11 +13,11 @@ And the tool to scrap these images from the website is on [![Colab](https://cola
 ## Table of Contents
 
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Accuracy On Testset](#contributing)
 - [License](#license)
 
 ## Usage
-To use this project for your own captcha images , follow these steps:
+To use this project for your own captcha images, the given notebook provides predictions on test sets intrinsically:
 
 1. Open the [Colab Notebook](https://colab.research.google.com/drive/1mafV7t0o0mPMyH1rObs60o3DNy8KDsUs?usp=sharing) in Google Colab.
 
@@ -27,11 +27,11 @@ To use this project for your own captcha images , follow these steps:
 
 Make sure you have a Google account and are signed in to access and run the notebook.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLAB_NOTEBOOK_LINK)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mafV7t0o0mPMyH1rObs60o3DNy8KDsUs?usp=sharing)
 
+#Accuracy on Testset
 
-```bash
-$ pip install pillow
-$ pip install tensorflow
-$ pip install numpy
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue.svg)](https://www.kaggle.com/code/sandeep1507/testing-model-accuracy)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mafV7t0o0mPMyH1rObs60o3DNy8KDsUs?usp=sharing)
 
