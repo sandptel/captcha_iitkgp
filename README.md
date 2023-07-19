@@ -5,7 +5,7 @@
 
 This repository provides you with the model to solve captchas of this specific type which contains characters with random number of strikethroughs vertically and horizontally.
 
-![Image Alt Text](Data/testset/2AK279.jpeg)
+![Image Alt](Data/testset/2CJ763.jpeg)
 
 And the tool to scrap these images from the website is on [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cjwTIkQuU0ZUtSY8QKtg69gHR5PLnKLm?usp=sharing)
 
