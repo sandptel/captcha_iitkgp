@@ -17,9 +17,9 @@ Check out my [LinkedIn post](https://www.linkedin.com/posts/sandppatel_i-have-cr
         - [Use the model provide directly](#use-the-model-provide-directly)
         - [Train the model and then use it](#train-the-model-and-then-use-it)
 - [Accuracy](#accuracy)
-    - [repos test dataset](#repos-test-dataset)
-    - [Notebooks](#notebooks) 
-- [CONTRIBUTING](#CONTRIBUTING)
+    - [repos test dataset](#using-repos-test-dataset)
+    - [Notebooks](#using-notebooks) 
+- [CONTRIBUTING](#contributing)
 
 ## Type of solvable captchas:
 
@@ -62,7 +62,7 @@ Here the captcha was:
 2. Then do the steps provieded for [Use the model provide directly](#use-the-model-provide-directly)
 
 ## Accuracy
-You can test the accuracy by either using the [repos test dataset](#repos-test-dataset) or by [Notebooks](#notebooks) 
+You can test the accuracy by either using the [repos test dataset](#using-repos-test-dataset) or by [Notebooks](#using-notebooks) 
 ### Using repos test dataset
 
 Use the steps provieded for [Use the model provide directly](#use-the-model-provide-directly) but this time see the output after "For testdataset"
