@@ -89,4 +89,9 @@ def captchasolve(folder_path,model,num_images=1):
     pred_texts = decode_batch_predictions(preds)
     print(pred_texts)
 
+print("For testdataset: ")
 captchasolve("./Data/testset",prediction_model,num_images=100)
+
+
+print("For user provided captcha: ")
+captchasolve("./Data/userset",prediction_model,num_images=100)
